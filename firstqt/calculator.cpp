@@ -18,6 +18,7 @@ void calculator:: managcalc (QString buttontext){
         ui-> display -> setText(firstnumber);
 
     }
+//bhbd 34an ashof hyhsl eh
 
     else // it's the second number
     {
@@ -249,6 +250,7 @@ void calculator::on_allclear_clicked()
    Number2exist= false;// to start over which means clearing the variables
 
 }
+// bhbd 34an ashof hyhsl eh 
 
 
 
