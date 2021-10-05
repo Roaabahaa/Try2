@@ -251,6 +251,7 @@ void calculator::on_allclear_clicked()
 
 }
 // bhbd 34an ashof hyhsl eh 
+//test
 
 
 
